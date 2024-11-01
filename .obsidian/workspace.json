@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "8d155c6c811c02d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14498da3348672c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5227759557278cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01A_知识管理/01A管理软件/zotero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zotero"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd82800a458b8582",
+    "type": "split",
+    "children": [
+      {
+        "id": "097eca588edecea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09f829ec119d991",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fcec950231f8624",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f944694c3355eba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d6ceeb2b2e94cda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f74e9eea7c9137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d200116e10f02776",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01A_知识管理/01A管理软件/zotero.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for zotero"
+            }
+          },
+          {
+            "id": "538d9b216c855fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "458e0b04285cea48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02fa1ce06e40e8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01A_知识管理/01A管理软件/zotero.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of zotero"
+            }
+          },
+          {
+            "id": "ee3bbc67709489aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "d09f829ec119d991",
+  "lastOpenFiles": [
+    "01A_知识管理/01A管理软件/Basic.md",
+    "01A_知识管理/01A管理软件/Joplin vs Obsidian.md",
+    "01A_知识管理/01A管理软件/Obsidian文章.md",
+    "01A_知识管理/01A管理软件/zotero.md",
+    "01A_知识管理/00.ImageResource/ZoteroPlugin.png",
+    "01A_知识管理/00.ImageResource",
+    "00A_测试用笔记本/HOW TO cook egg.md",
+    "15.CocosCreator/01.Basic/Animation.md",
+    "15.CocosCreator/01.Basic/JS Grammar.md",
+    "15.CocosCreator/01.Basic/Co2 UI.md",
+    "15.CocosCreator/01.Basic/BasicCode.md",
+    "15.CocosCreator/01.Basic/Basic.md",
+    "15.CocosCreator/02.CodeSnippet/音乐播放.md",
+    "15.CocosCreator/02.CodeSnippet/Bird.md",
+    "15.CocosCreator/02.CodeSnippet/Results.md",
+    "15.CocosCreator/02.CodeSnippet/Pipes.md",
+    "15.CocosCreator/02.CodeSnippet/Ground.md",
+    "15.CocosCreator/02.CodeSnippet/GameCtrl.md",
+    "15.CocosCreator/02.CodeSnippet/BirdAudio.md",
+    "15.CocosCreator/02.CodeSnippet/PipePool.md",
+    "15.CocosCreator/02.CodeSnippet",
+    "15.CocosCreator/01.Basic",
+    "15.CocosCreator",
+    "02A_CocosCreatorDEV/01.Basic/Basic.md",
+    "02A_CocosCreatorDEV/01.Basic/Animation.md",
+    "02A_CocosCreatorDEV/01.Basic/JS Grammar.md",
+    "02A_CocosCreatorDEV/01.Basic/Co2 UI.md",
+    "02A_CocosCreatorDEV/01.Basic/BasicCode.md",
+    "02A_CocosCreatorDEV/02.CodeSnippet/Results.md",
+    "02A_CocosCreatorDEV/02.CodeSnippet/Ground.md",
+    "02A_CocosCreatorDEV/02.CodeSnippet/GameCtrl.md",
+    "15.CocosCreator/00.ImageResource/Co2UI.5.jpg",
+    "15.CocosCreator/00.ImageResource/prefab.1.jpg",
+    "15.CocosCreator/00.ImageResource/Gizmo.jpg",
+    "15.CocosCreator/00.ImageResource/Co2UI.4.jpg",
+    "15.CocosCreator/00.ImageResource/Co2UI.3.jpg",
+    "15.CocosCreator/00.ImageResource/Co2UI.2.jpg",
+    "15.CocosCreator/00.ImageResource/Co2UI.1.jpg",
+    "15.CocosCreator/00.ImageResource/ChromeDebugger.jpg",
+    "15.CocosCreator/00.ImageResource/Basic.9.jpg",
+    "15.CocosCreator/00.ImageResource",
+    "02A_CocosCreatorDEV/00.images",
+    "02A_CocosCreatorDEV/02.CodeSnippet",
+    "02A_CocosCreatorDEV/01.Basic",
+    "00A_测试用笔记本/00_ImageSrc",
+    "00A_测试用笔记本/Untitled 1.canvas",
+    "00A_测试用笔记本/测试一下",
+    "Untitled.canvas"
+  ]
+}
