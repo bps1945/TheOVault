@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01A_知识管理/01A管理软件/zotero.md",
+                "file": "00A_测试用笔记本/测试一下/测试图文并茂.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zotero"
+              "title": "测试图文并茂"
             }
           }
         ]
@@ -174,12 +174,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d09f829ec119d991",
+  "active": "5227759557278cdc",
   "lastOpenFiles": [
+    "01A_知识管理/01A管理软件/zotero.md",
     "01A_知识管理/01A管理软件/Basic.md",
     "01A_知识管理/01A管理软件/Joplin vs Obsidian.md",
     "01A_知识管理/01A管理软件/Obsidian文章.md",
-    "01A_知识管理/01A管理软件/zotero.md",
     "01A_知识管理/00.ImageResource/ZoteroPlugin.png",
     "01A_知识管理/00.ImageResource",
     "00A_测试用笔记本/HOW TO cook egg.md",
