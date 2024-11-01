@@ -139,24 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01A_知识管理/01A管理软件/zotero.md"
+                "file": "00A_测试用笔记本/测试一下/测试图文并茂.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of zotero"
-            }
-          },
-          {
-            "id": "ee3bbc67709489aa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 测试图文并茂"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +164,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5227759557278cdc",
+  "active": "02fa1ce06e40e8a8",
   "lastOpenFiles": [
     "01A_知识管理/01A管理软件/zotero.md",
     "01A_知识管理/01A管理软件/Basic.md",
