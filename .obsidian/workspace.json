@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05A.PH/01A.混社会知识/01A.天涯神贴系列知识/不能低调的几个问题.md",
+                "file": "06A.随记/03A.找对象问题/对找对象这件事的感悟.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不能低调的几个问题"
+              "title": "对找对象这件事的感悟"
             }
           }
         ]
@@ -165,10 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d09f829ec119d991",
+  "active": "e37e5ea7b7b889f9",
   "lastOpenFiles": [
-    "02A.Thinking/02A.ThinkingInSystems/Untitled444.md",
+    "04A.Math/01A.零散记录/概率中的期望.md",
+    "06A.随记/03A.找对象问题/对找对象这件事的感悟.md",
     "05A.PH/01A.混社会知识/01A.天涯神贴系列知识/不能低调的几个问题.md",
+    "06A.随记/03A.找对象问题",
+    "06A.随记",
+    "02A.Thinking/02A.ThinkingInSystems/Untitled444.md",
     "05A.PH/01A.混社会知识/01A.天涯神贴系列知识",
     "05A.PH/01A.混社会知识",
     "05A.PH",
@@ -181,11 +185,8 @@
     "02A.Thinking/01.FileResource/Drawing 2024-11-01 22.10.20.excalidraw.md",
     "00B.资源列表/00A.好文章列表/11111.md",
     "02A.Thinking/01.FileResource",
-    "02A.Thinking/02A.ThinkingInSystems",
     "02A.Thinking/01A.现成思维模型/01A合区谬误.md",
-    "00B.资源列表/00A.好文章列表",
     "02A.Thinking/00A.ImageResource/ConjunctionFallacy.png",
-    "04A.Math/01A.零散记录/概率中的期望.md",
     "01A.知识管理/01A管理软件/Basic.md",
     "00A.测试用笔记本/Excalidraw/Drawing 2024-11-01 17.18.02.excalidraw.md",
     "00A.测试用笔记本/小孩不吃饭怎么办.md",
@@ -206,7 +207,6 @@
     "15.CocosCreator/01.Basic/BasicCode.md",
     "15.CocosCreator/01.Basic/Basic.md",
     "15.CocosCreator/02.CodeSnippet/音乐播放.md",
-    "15.CocosCreator/02.CodeSnippet/Bird.md",
     "15.CocosCreator/00.ImageResource/Co2UI.5.jpg",
     "15.CocosCreator/00.ImageResource/prefab.1.jpg",
     "15.CocosCreator/00.ImageResource/Gizmo.jpg",
